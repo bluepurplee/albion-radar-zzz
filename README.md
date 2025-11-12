@@ -4,9 +4,7 @@ This is a classic radar application for Albion Online. It emits events via WebSo
 
 To run the application, simply use:
 
-sh
-Copier
-Modifier
 npm start
+
 A huge thanks to other open-source projects on GitHub—without them, this project wouldn't have been possible.
 
